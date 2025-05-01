@@ -1,5 +1,5 @@
-# :earth_americas: HealthCare
-A simple Streamlit app showing the GDP of different countries in the world.
+# :Health_americas: HealthCare
+Healthcare Data Analytics Platform
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]()
 
