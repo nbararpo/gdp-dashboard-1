@@ -1,4 +1,4 @@
-# :Health_americas: HealthCare
+# !Health_mettics: HealthCare
 Healthcare Data Analytics Platform
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]()
